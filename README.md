@@ -21,6 +21,9 @@ CSS: Styles the website for visual appeal and responsiveness.
 
 JavaScript: Adds interactivity and fetches weather data.
 
+# Screenshot:
+![Screenshot](https://github.com/piyushkumar-prog/Bharat_intern-Task-2-Weather_Website/blob/main/screenshot--.png)
+
 # Contributing:
 
 Feel free to fork this repository and make improvements! I welcome pull requests with additional features or bug fixes.
